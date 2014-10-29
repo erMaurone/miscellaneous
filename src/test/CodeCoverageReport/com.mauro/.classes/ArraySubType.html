@@ -1,0 +1,121 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html id="htmlId">
+<head>
+  <title>Coverage Report :: ArraySubType</title>
+  <style type="text/css">
+    @import "../../.css/coverage.css";
+  </style>
+</head>
+
+<body>
+<div class="header"></div>
+
+<div class="content">
+<div class="breadCrumbs">
+    [ <a href="../../index.html">all classes</a> ]
+    [ <a href="../index.html">com.mauro</a> ]
+</div>
+
+<h1>Coverage Summary for Class: ArraySubType (com.mauro)</h1>
+
+<table class="coverageStats">
+<tr>
+  <th class="name">Class</th>
+<th class="coverageStat 
+">
+  Class, %
+</th>
+<th class="coverageStat 
+">
+  Method, %
+</th>
+<th class="coverageStat 
+">
+  Line, %
+</th>
+</tr>
+<tr>
+  <td class="name">ArraySubType</td>
+<td class="coverageStat">
+  <span class="percent">
+    0%
+  </span>
+  <span class="absValue">
+    (0/ 1)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    0%
+  </span>
+  <span class="absValue">
+    (0/ 2)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    0%
+  </span>
+  <span class="absValue">
+    (0/ 11)
+  </span>
+</td>
+</tr>
+
+</table>
+
+<br/>
+<br/>
+
+
+<div class="sourceCode"><i>1</i>&nbsp;package com.mauro;
+<i>2</i>&nbsp;
+<i>3</i>&nbsp;import java.lang.reflect.Array;
+<i>4</i>&nbsp;import java.nio.DoubleBuffer;
+<i>5</i>&nbsp;
+<i>6</i>&nbsp;/**
+<i>7</i>&nbsp; * Created with IntelliJ IDEA.
+<i>8</i>&nbsp; * User: mauro
+<i>9</i>&nbsp; * Date: 05/08/2014
+<i>10</i>&nbsp; * Time: 11:15
+<i>11</i>&nbsp; * To change this template use File | Settings | File Templates.
+<i>12</i>&nbsp; */
+<b class="nc"><i>13</i>&nbsp;public class ArraySubType {</b>
+<i>14</i>&nbsp;
+<i>15</i>&nbsp;    public static void Main(String argv[]) {
+<i>16</i>&nbsp;
+<i>17</i>&nbsp;
+<b class="nc"><i>18</i>&nbsp;        Dog aDog = new Dog(&quot;dogName&quot;);</b>
+<b class="nc"><i>19</i>&nbsp;        Dog secondDog = new Dog(&quot;secondDog&quot;);</b>
+<b class="nc"><i>20</i>&nbsp;        Dog thirdDog = new Dog(&quot;thirdDog&quot;);</b>
+<i>21</i>&nbsp;
+<i>22</i>&nbsp;
+<b class="nc"><i>23</i>&nbsp;        Pet[] aPetArray = {aDog, secondDog, thirdDog};</b>
+<b class="nc"><i>24</i>&nbsp;        Dog[] aDogArray = {aDog, secondDog, thirdDog};</b>
+<i>25</i>&nbsp;
+<b class="nc"><i>26</i>&nbsp;        Pet[] mixedArray = new Pet[3];</b>
+<b class="nc"><i>27</i>&nbsp;        mixedArray[0] = new Dog(&quot;anotherDog&quot;);</b>
+<b class="nc"><i>28</i>&nbsp;        mixedArray[1] = new Pet(&quot;aPet&quot;);</b>
+<b class="nc"><i>29</i>&nbsp;        mixedArray[2] = secondDog;</b>
+<i>30</i>&nbsp;
+<b class="nc"><i>31</i>&nbsp;        aPetArray = aDogArray;</b>
+<i>32</i>&nbsp;        //aPetArray = new int[4];      //will show error
+<i>33</i>&nbsp;
+<i>34</i>&nbsp;
+<i>35</i>&nbsp;    }
+<i>36</i>&nbsp;
+<i>37</i>&nbsp;
+<i>38</i>&nbsp;}
+</div>
+</div>
+
+<div class="footer">
+    
+    <div style="float:right;">generated on 2014-09-24 18:36</div>
+</div>
+</body>
+</html>

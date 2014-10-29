@@ -1,0 +1,17 @@
+<config>
+    <riskEngine>
+        <name>"bond"</name>
+        <engine>"com.mauro.engine.bondEngine"</engine>
+        <attribute>"bondRiskEngine"</attribute>
+    </riskEngine>
+    <riskEngine>
+        <name>"corpBond"</name>
+        <engine>"com.mauro.engine.corpBondEngine"</engine>
+        <attribute>"corpBondRiskEngine"</attribute>
+    </riskEngine>
+    <riskEngine>
+        <name>"fxSpot"</name>
+        <engine>"com.mauro.engine.fxSpotEngine"</engine>
+        <attribute>"fxSpotRiskEngine"</attribute>
+    </riskEngine>
+</config>

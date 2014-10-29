@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a94848e6-ab66-4d4a-8317-cebb54725a14" name="Default" comment="" />
+    <ignored path="miscellaneous.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/fragment.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414592983021" ignored="false" />
+    <file path="/referenceTestTest.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1406747407327" ignored="false" />
+    <file path="/Dog.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1406746655597" ignored="false" />
+    <file path="/referenceTest.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1406748173258" ignored="false" />
+    <file path="/ValueVsRefTest.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1406747018661" ignored="false" />
+    <file path="/a.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1406747720470" ignored="false" />
+    <file path="/sample.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1406747724300" ignored="false" />
+    <file path="/pom.xml" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414429271138" ignored="false" />
+    <file path="/Dummy.txt" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414609111080" ignored="false" />
+    <file path="/ArraySubType.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1407236273385" ignored="false" />
+    <file path="$USER_HOME$/workspace/effective-java-examples/src/main/java/org/effectivejava/examples/chapter05/item28/Stack.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1408099513944" ignored="false" />
+    <file path="/Stack.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411556523231" ignored="false" />
+    <file path="$USER_HOME$/workspace/short-sweep/src/main/java/com/jpmorgan/ib/efp/shotsweep/interfaces/domain/Entity.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1408379187887" ignored="false" />
+    <file path="/Entity.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1408379152863" ignored="false" />
+    <file path="$USER_HOME$/workspace/short-sweep/src/main/java/com/jpmorgan/ib/efp/shotsweep/interfaces/domain/TimeSeriesEntity.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1408379709323" ignored="false" />
+    <file path="/TimeSeriesEntity.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1408379707131" ignored="false" />
+    <file path="$USER_HOME$/workspace/short-sweep/src/main/java/com/jpmorgan/ib/efp/shotsweep/interfaces/domain/Recommendation.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1408380541785" ignored="false" />
+    <file path="/Recommendation.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1408380541785" ignored="false" />
+    <file path="$USER_HOME$/workspace/ServiceProvider/src/main/java/implementations/Service.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411469500611" ignored="false" />
+    <file path="$USER_HOME$/workspace/ServiceProvider/src/main/java/implementations/Provider.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411469525019" ignored="false" />
+    <file path="/Service.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411476848509" ignored="false" />
+    <file path="/Provider.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411476834144" ignored="false" />
+    <file path="$USER_HOME$/workspace/ServiceProvider/src/main/java/interfaces/Service.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411469539750" ignored="false" />
+    <file path="$USER_HOME$/workspace/ServiceProvider/src/main/java/interfaces/Provider.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411470439536" ignored="false" />
+    <file path="$USER_HOME$/workspace/ServiceProvider/src/main/java/implementations/ServiceImp.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411469618380" ignored="false" />
+    <file path="/ServiceImp.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411475781614" ignored="false" />
+    <file path="$USER_HOME$/workspace/ServiceProvider/src/main/java/implementations/ProviderImp.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411469707514" ignored="false" />
+    <file path="/ProviderImp.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411479047934" ignored="false" />
+    <file path="$USER_HOME$/workspace/ServiceProvider/src/main/java/ServiceBroker.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411469759747" ignored="false" />
+    <file path="$USER_HOME$/workspace/ServiceProvider/src/main/java/broker/Services.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411642548284" ignored="false" />
+    <file path="/Services.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411479592244" ignored="false" />
+    <file path="$USER_HOME$/workspace/ServiceProvider/src/main/java/Services/ServiceImp.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411476014762" ignored="false" />
+    <file path="$USER_HOME$/workspace/ServiceProvider/src/main/java/Services/ProviderImp.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411470483312" ignored="false" />
+    <file path="$USER_HOME$/workspace/ServiceProvider/src/main/java/Services/Service.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411476850163" ignored="false" />
+    <file path="$USER_HOME$/workspace/ServiceProvider/src/main/java/Services/ServicesImpl/ServiceImp.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411475783347" ignored="false" />
+    <file path="$USER_HOME$/workspace/ServiceProvider/src/main/java/Providers/Provider.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411476836324" ignored="false" />
+    <file path="$USER_HOME$/workspace/ServiceProvider/src/main/java/Providers/ProvidersImpl/ProviderImp.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411475764458" ignored="false" />
+    <file path="$USER_HOME$/workspace/ServiceProvider/src/test/java/broker/ServicesTest.groovy" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411474708879" ignored="false" />
+    <file path="$USER_HOME$/workspace/ServiceProvider/src/test/java/Providers/ProvidersImpl/ProviderImpTest.groovy" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411474720643" ignored="false" />
+    <file path="$USER_HOME$/workspace/ServiceProvider/src/test/java/Services/ServicesImpl/ServiceImpTest.groovy" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411474217214" ignored="false" />
+    <file path="/ServiceImpTest.groovy" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411474212949" ignored="false" />
+    <file path="/ProviderImpTest.groovy" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411474614294" ignored="false" />
+    <file path="$USER_HOME$/workspace/ServiceProvider/src/test/java/broker/ServicesTest.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411642967437" ignored="false" />
+    <file path="$USER_HOME$/workspace/ServiceProvider/src/test/java/Providers/ProvidersImpl/ProviderImpTest.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411478443630" ignored="false" />
+    <file path="$USER_HOME$/workspace/ServiceProvider/src/test/java/Services/ServicesImpl/ServiceImpTest.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411478312844" ignored="false" />
+    <file path="$USER_HOME$/workspace/ServiceProvider/ServiceProvider.iml" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411475492671" ignored="false" />
+    <file path="/ServicesTest.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411478584320" ignored="false" />
+    <file path="$USER_HOME$/workspace/ServiceProvider/src/main/java/Providers/ProviderImp.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411479054671" ignored="false" />
+    <file path="/ProviderImpTest.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411478439974" ignored="false" />
+    <file path="/NutritionFacts.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411486536990" ignored="false" />
+    <file path="/NutritionFactsTest.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411486681699" ignored="false" />
+    <file path="/SetgViewOfMap.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413278797110" ignored="false" />
+    <file path="/StackTest.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411555726311" ignored="false" />
+    <file path="/JavaMagTest.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1411740727343" ignored="false" />
+    <file path="/StopThread1.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1412678308252" ignored="false" />
+    <file path="/StopThread2.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1412678831405" ignored="false" />
+    <file path="/StopThread3.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1412679384895" ignored="false" />
+    <file path="/StringCardDealing.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1412957381528" ignored="false" />
+    <file path="/EnumCardDealing.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413217643871" ignored="false" />
+    <file path="/config.xml" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1412960378687" ignored="false" />
+    <file path="/SaxParser.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413277231082" ignored="false" />
+    <file path="/DateParsing.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413279518499" ignored="false" />
+    <file path="/DateParserJava8.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413296967837" ignored="false" />
+    <file path="$USER_HOME$/workspace/docAnalyzer/src/main/java/engine/WordCounter.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413333168338" ignored="false" />
+    <file path="/WordCounter.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413324269687" ignored="false" />
+    <file path="$USER_HOME$/workspace/docAnalyzer/src/main/java/input/ProcessFile.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413318614607" ignored="false" />
+    <file path="/ProcessFile.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413326272710" ignored="false" />
+    <file path="$USER_HOME$/workspace/docAnalyzer/src/main/java/client/DocumentAnalyzer.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413326873583" ignored="false" />
+    <file path="/DocumentAnalyzer.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413326867200" ignored="false" />
+    <file path="$USER_HOME$/workspace/docAnalyzer/src/main/java/input/DocumentParser.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413383327584" ignored="false" />
+    <file path="$USER_HOME$/workspace/docAnalyzer/src/main/java/engine/CounterEngine.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413322395471" ignored="false" />
+    <file path="/DocumentParser.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413383312879" ignored="false" />
+    <file path="$USER_HOME$/workspace/docAnalyzer/src/main/java/report/CountReport.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413320055775" ignored="false" />
+    <file path="/CountReport.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413320003563" ignored="false" />
+    <file path="$USER_HOME$/workspace/docAnalyzer/src/main/java/report/Report.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413320056558" ignored="false" />
+    <file path="$USER_HOME$/workspace/docAnalyzer/src/main/java/report/WordCountReport.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413327078655" ignored="false" />
+    <file path="/WordCountReport.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413326940041" ignored="false" />
+    <file path="$USER_HOME$/workspace/docAnalyzer/src/main/java/engine/WordCounto.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413321283961" ignored="false" />
+    <file path="$USER_HOME$/workspace/docAnalyzer/src/main/java/engine/WordCount.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413323351287" ignored="false" />
+    <file path="/WordCount.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413323351287" ignored="false" />
+    <file path="/NoCallToSuperSample.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413531453808" ignored="false" />
+    <file path="/SuperContructorClass.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413531437713" ignored="false" />
+    <file path="/StringExample.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413545366162" ignored="false" />
+    <file path="/StaticOverride.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413553578965" ignored="false" />
+    <file path="/TestDate.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413553757348" ignored="false" />
+    <file path="/WrongClass.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413554517122" ignored="false" />
+    <file path="/SuperClass.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413555409895" ignored="false" />
+    <file path="/BoxedTest.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413565477045" ignored="false" />
+    <file path="/PositionManager.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413555679420" ignored="false" />
+    <file path="/IkmProcessor.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413556587447" ignored="false" />
+    <file path="/MathTest.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413556712746" ignored="false" />
+    <file path="/LocalVars.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413557790329" ignored="false" />
+    <file path="/LISTDEMO.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413558243773" ignored="false" />
+    <file path="/EnhancedFor.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1413565912255" ignored="false" />
+    <file path="$USER_HOME$/workspace/TDD_BOOK/src/test/java/auctionSniper/AuctionSniperEndToEndTest.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414445206087" ignored="false" />
+    <file path="/AuctionSniperEndToEndTest.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414434573268" ignored="false" />
+    <file path="$USER_HOME$/workspace/TDD_BOOK/src/main/java/auctionSniper/application/ApplicationRunner.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414439634545" ignored="false" />
+    <file path="/ApplicationRunner.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414439633206" ignored="false" />
+    <file path="$USER_HOME$/workspace/TDD_BOOK/pom.xml" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414433452613" ignored="false" />
+    <file path="$USER_HOME$/workspace/TDD_BOOK/src/main/java/auctionSniper/gui/FakeAuctionServer.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414429713632" ignored="false" />
+    <file path="$USER_HOME$/workspace/TDD_BOOK/src/main/java/auctionSniper/gui/AuctionSniperDriver.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414439648337" ignored="false" />
+    <file path="/AuctionSniperDriver.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414439647091" ignored="false" />
+    <file path="$USER_HOME$/workspace/TDD_BOOK/src/main/java/auctionSniper/server/FakeAuctionServer.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414511313019" ignored="false" />
+    <file path="/FakeAuctionServer.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414436834074" ignored="false" />
+    <file path="$USER_HOME$/workspace/TDD_BOOK/src/main/java/auctionSniper/ui/Main.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414445712409" ignored="false" />
+    <file path="/Main.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414445545109" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/lesson1/ThreeSum.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414526278308" ignored="false" />
+    <file path="/ThreeSum.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414523529772" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/resources/int.txt" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414529108506" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/lesson1/In.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414520176343" ignored="false" />
+    <file path="/In.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414518106243" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utils/In.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414520931530" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utils/Picture.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414519517551" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utils/Out.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414519517551" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utils/StdAudio.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414519517551" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utils/Draw.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414519517551" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utils/StdDraw3D.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414519517551" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utils/BinaryIn.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414519517551" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utils/StdInTest.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414519517551" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utils/StdDraw.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414519517551" ignored="false" />
+    <file path="/Stopwatch.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414519744391" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utilsStanford/Stopwatch.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414519744391" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utilsPrinceton/StdOut.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414520804314" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utils/FileOut.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414577910082" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utilsPrinceton/In.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414523670369" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utilsPrinceton/Out.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414520969117" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utils/FileIn.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414520969117" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utilsPrinceton/StdIn.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414523647321" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utilsPrinceton/StdInTest.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414523623477" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utilsPrinceton/BinaryIn.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414608796757" ignored="false" />
+    <file path="/FileOut.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414577907396" ignored="false" />
+    <file path="/StdInTest.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414523606055" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utilsPrinceton/StdRandom.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414525485781" ignored="false" />
+    <file path="/StdRandom.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414525471562" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utilsPrinceton/StdStats.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414525494572" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utilsPrinceton/Test.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414525501925" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utilsPrinceton/UnicodeTest.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414525567739" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utilsPrinceton/StdArrayIO.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414525537984" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utilsPrinceton/StdDraw.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414525561042" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/resources/ThreeSum.txt" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414530792991" ignored="false" />
+    <file path="/a.dummy" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414527674861" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/lesson1/ThreeSumCubicPerformance.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414531760800" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/lesson1/ThreeSumN2LogNPerformance.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414532266140" ignored="false" />
+    <file path="/ThreeSumN2LogNPerformance.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414532229542" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/lesson1/ThreeSumSlow.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414536247642" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/lesson1/ThreeSumFast.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414536824505" ignored="false" />
+    <file path="/ThreeSumFast.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414536761060" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/resources/ThreeSumFast.txt" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414544268285" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utils/IntFileGenerator.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414547628689" ignored="false" />
+    <file path="/IntFileGenerator.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414547426030" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/resources/generated_10000_ints.txt" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414541900612" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/lesson1/ThreeSumDeluxe.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414592913341" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/lesson1/ThreeSum/ThreeSumDeluxe.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414592986370" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/lesson1/ThreeSum/ThreeSumSlow.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414592986371" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/lesson1/unionFind/QuickFindUF.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414598585717" ignored="false" />
+    <file path="/QuickFindUF.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414594921950" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/lesson1/unionFind/QuickUnionUF.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414596373491" ignored="false" />
+    <file path="/QuickUnionUF.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414605640047" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/lesson1/unionFind/WeightedQuickUnionUF.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414599422982" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/lesson1/unionFind/WeightedQuickUnionPathCompression.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414605447031" ignored="false" />
+    <file path="/WeightedQuickUnionPathCompression.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414605370723" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/lessonOne/ThreeSum/ThreeSumDeluxe.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414605513359" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/lessonOne/ThreeSum/ThreeSumSlow.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414605513359" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/lessonOne/unionFind/QuickFindUF.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414605513359" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/lessonOne/unionFind/QuickUnionUF.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414605805322" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/lessonOne/unionFind/WeightedQuickUnionUF.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414605513359" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/lessonOne/unionFind/WeightedQuickUnionPathCompression.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414605607831" ignored="false" />
+    <file path="/BinaryIn.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414608745455" ignored="false" />
+    <file path="$USER_HOME$/workspace/AlgoCourse1/src/main/java/utilsPrinceton/BinaryOut.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414609112740" ignored="false" />
+    <file path="/BinaryOut.java" changelist="a94848e6-ab66-4d4a-8317-cebb54725a14" time="1414608825917" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/miscellaneous$All_in_miscellaneous.coverage" NAME="All in miscellaneous Coverage Results" MODIFIED="1411580008790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/miscellaneous$ValueVsRefTest.coverage" NAME="ValueVsRefTest Coverage Results" MODIFIED="1406892360086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.mauro.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/miscellaneous$com_mauro_in_miscellaneous.coverage" NAME="com.mauro in miscellaneous Coverage Results" MODIFIED="1406748829635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.mauro.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/com/mauro/NutritionFacts.java" line="28" class="com.mauro.NutritionFacts.Builder" package="com.mauro">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/test/java/com/mauro/NutritionFactsTest.java" line="19" class="com.mauro.NutritionFactsTest" package="com.mauro">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/test/java/com/mauro/NutritionFactsTest.java" line="14" class="com.mauro.NutritionFactsTest" package="com.mauro">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/test/java/com/mauro/StackTest.java" line="49" class="com.mauro.StackTest" package="com.mauro">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/test/java/com/mauro/StackTest.java" line="31" class="com.mauro.StackTest" package="com.mauro">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="miscellaneous" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="FileClass.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/FileClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="1" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FormatTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/FormatTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="22" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IfStatement.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/IfStatement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="13" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IkmTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/IkmTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="13" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IKMTest2.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/IKMTest2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="13" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StaticOverride.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/StaticOverride.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="7" selection-start="794" selection-end="794" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SubString.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/SubString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="0" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SuperClass.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/SuperClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="13" selection-start="444" selection-end="444" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VisitorTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/VisitorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="50" selection-start="309" selection-end="309" vertical-scroll-proportion="0.3016129">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/mauro/itmTest/Child.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mauro/itmTest/IkmTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mauro/itmTest/VisitorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mauro/itmTest/IkmProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mauro/itmTest/MathTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mauro/itmTest/IKMTest2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mauro/itmTest/LocalVars.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mauro/itmTest/LISTDEMO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mauro/itmTest/NewClassTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mauro/itmTest/TestDate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mauro/itmTest/StaticOverride.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mauro/ArraySubType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mauro/itmTest/BoxedTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mauro/itmTest/EnhancedFor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mauro/itmTest/ExceptionClasses.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mauro/itmTest/FormatTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/myApps/apache/apache-maven-3.1.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="miscellaneous" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="miscellaneous" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="103" />
+    <option name="y" value="50" />
+    <option name="width" value="1287" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Class structure</id>
+          </State>
+          <State>
+            <id>Code style issues</id>
+          </State>
+          <State>
+            <id>Compiler issues</id>
+          </State>
+          <State>
+            <id>Error handling</id>
+          </State>
+          <State>
+            <id>Finalization issues</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Inheritance issues</id>
+          </State>
+          <State>
+            <id>J2ME issues</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>Java language level migration aids</id>
+          </State>
+          <State>
+            <id>JavaBeans issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Numeric issues</id>
+          </State>
+          <State>
+            <id>OtherGroovy</id>
+          </State>
+          <State>
+            <id>Performance issues</id>
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>Security issues</id>
+          </State>
+          <State>
+            <id>Serialization issues</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructs</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miscellaneous" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miscellaneous" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miscellaneous" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miscellaneous" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miscellaneous" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mauro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miscellaneous" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miscellaneous" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miscellaneous" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miscellaneous" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miscellaneous" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miscellaneous" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miscellaneous" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miscellaneous" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mauro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="android.dex.compiler" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/CodeCoverageReport" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.mauro" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.mauro" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.mauro" />
+      <recent name="com" />
+      <recent name="test.com.mauro" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SubString">
+    <configuration default="false" name="IkmProcessor" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.mauro.itmTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.mauro.itmTest.IkmProcessor" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="miscellaneous" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="IkmTest" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.mauro.itmTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.mauro.itmTest.IkmTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="miscellaneous" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="IKMTest2" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.mauro.itmTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.mauro.itmTest.IKMTest2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="miscellaneous" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="StaticOverride" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.mauro.itmTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.mauro.itmTest.StaticOverride" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="miscellaneous" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SubString" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.mauro.itmTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.mauro.itmTest.SubString" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="miscellaneous" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="All in miscellaneous" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="miscellaneous" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Cover" />
+      <ConfigurationWrapper RunnerId="Cover" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.All in miscellaneous" />
+      <item index="1" class="java.lang.String" itemvalue="Application.IkmProcessor" />
+      <item index="2" class="java.lang.String" itemvalue="Application.IkmTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.IKMTest2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.StaticOverride" />
+      <item index="5" class="java.lang.String" itemvalue="Application.SubString" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.SubString" />
+        <item index="1" class="java.lang.String" itemvalue="Application.StaticOverride" />
+        <item index="2" class="java.lang.String" itemvalue="Application.IKMTest2" />
+        <item index="3" class="java.lang.String" itemvalue="Application.IkmTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.IkmProcessor" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">$USER_HOME$/.subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a94848e6-ab66-4d4a-8317-cebb54725a14" name="Default" comment="" />
+      <created>1406744652943</created>
+      <updated>1406744652943</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="103" y="50" width="1287" height="840" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48725638" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884097" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2496361" sideWeight="0.67027026" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16921838" sideWeight="0.5652174" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5327935" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34170154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14262691" sideWeight="0.63418293" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3638889" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24737631" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/ArraySubType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="187" selection-end="187" vertical-scroll-proportion="0.1950867">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/BoxedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="33" selection-start="290" selection-end="290" vertical-scroll-proportion="0.2817919" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/CalendarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="35" selection-start="577" selection-end="582" vertical-scroll-proportion="0.6375839" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="23" selection-start="373" selection-end="373" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/EnhancedFor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/ExceptionClasses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="2" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/FileClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="1" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/FormatTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="22" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/IfStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/IkmProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="16" selection-start="591" selection-end="591" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/IkmTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/IKMTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="13" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/StaticOverride.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="7" selection-start="794" selection-end="794" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/SubString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/SuperClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="13" selection-start="444" selection-end="444" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mauro/itmTest/VisitorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="50" selection-start="309" selection-end="309" vertical-scroll-proportion="0.3016129">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>miscellaneous</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
